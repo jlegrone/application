@@ -40,6 +40,12 @@ cscope.*
 *.test
 /hack/.test-cmd-auth
 
+# Go test output
+*.out
+
+# Controller binaries
+/bin
+
 # JUnit test output from ginkgo e2e tests
 /junit*.xml
 
